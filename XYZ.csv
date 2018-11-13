@@ -1,3 +1,8 @@
-party,value
-blue,33
-none,19
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\趙宥寧\\Documents\\GitHub\\20181113"
+		}
+	],
+	"settings": {}
+}
